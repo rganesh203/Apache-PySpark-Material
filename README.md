@@ -52,9 +52,12 @@ Section 5: python 3.0 (Crash Course)
      Lamda Function
     
 Section 6: Why Spark with Python ? 
+
      Why Spark?
      Why Spark with Python (PySpark)? 
-Section 7: Configure Running Platform 11
+    
+Section 7: Configure Running Platform 
+
       Run on Databricks Community Cloud 
       Configure Spark on Mac and Ubuntu 
       Configure Spark on Windows
@@ -63,115 +66,159 @@ Section 7: Configure Running Platform 11
       Set up Spark on Cloud 
       PySpark on Colaboratory 
       Demo Code in this Section 
+    
 Section 8: An Introduction to Apache Spark 
+
       Core Concepts 
       Spark Components
       Architecture 
       How Spark Works? 
+    
 Section 9: Programming with RDDs 
-    5.1 Create RDD 
-    5.2 Spark Operations
-    5.3 rdd.DataFrame vs pd.DataFrame 
+
+      Create RDD 
+      Spark Operations
+      rdd.DataFrame vs pd.DataFrame 
+    
 Section 10: Statistics and Linear Algebra Preliminaries 
-    6.1 Notations 
-    6.2 Linear Algebra Preliminaries 
-    6.3 Measurement Formula 
-    6.4 Confusion Matrix 
-    6.5 Statistical Tests 
+
+      Notations 
+      Linear Algebra Preliminaries 
+      Measurement Formula 
+      Confusion Matrix 
+      Statistical Tests 
+    
 Section 11: Data Exploration 
-    7.1 Univariate Analysis 
-    7.2 Multivariate Analysis 
+
+      Univariate Analysis 
+      Multivariate Analysis 
+    
 Section 12: Data Manipulation: Features
-    8.1 Feature Extraction 
-    8.2 Feature Transform 
-    8.3 Feature Selection 
-    8.4 Unbalanced data: Undersampling 
+
+      Feature Extraction 
+      Feature Transform 
+      Feature Selection 
+      Unbalanced data: Undersampling 
+    
 Section 13: Regression 
-    9.1 Linear Regression
-    9.2 Generalized linear regression 
-    9.3 Decision tree Regression 
-    9.4 Random Forest Regression 
-    9.5 Gradient-boosted tree regression 
+
+      Linear Regression
+      Generalized linear regression 
+      Decision tree Regression 
+      Random Forest Regression 
+      Gradient-boosted tree regression 
+    
 Section 14: Regularization 
-    10.1 Ordinary least squares regression 
-    10.2 Ridge regression 
-    10.3 Least Absolute Shrinkage and Selection Operator (LASSO)
-    10.4 Elastic net 
+
+      Ordinary least squares regression 
+      Ridge regression 
+      Least Absolute Shrinkage and Selection Operator (LASSO)
+      Elastic net 
+    
 Section 15: Classification 
-    11.1 Binomial logistic regression
-    11.2 Multinomial logistic regression 
-    11.3 Decision tree Classification 
-    11.4 Random forest Classification 
-    11.5 Gradient-boosted tree Classification 
-    11.6 XGBoost: Gradient-boosted tree Classification 
-    11.7 Naive Bayes Classification 
+
+      Binomial logistic regression
+      Multinomial logistic regression 
+      Decision tree Classification 
+      Random forest Classification 
+      Gradient-boosted tree Classification 
+      XGBoost: Gradient-boosted tree Classification 
+      Naive Bayes Classification 
+    
 Section 16: Clustering 
-    12.1 K-Means Model 
+
+      K-Means Model 
+    
 Section 17: RFM Analysis 
-    13.1 RFM Analysis Methodology 
-    13.2 Demo 
-    13.3 Extension 
+
+      RFM Analysis Methodology 
+      Demo 
+      Extension 
 Section 18: Text Mining 
-    14.1 Text Collection 
-    14.2 Text Preprocessing 
-    14.3 Text Classification 
-    14.4 Sentiment analysis 
-    14.5 N-grams and Correlations
-    14.6 Topic Model: Latent Dirichlet Allocation
+
+      Text Collection 
+      Text Preprocessing 
+      Text Classification 
+      Sentiment analysis 
+      N-grams and Correlations
+      Topic Model: Latent Dirichlet Allocation
+    
 Section 19: Social Network Analysis 
-    15.1 Introduction 
-    15.2 Co-occurrence Network 
-    15.3 Appendix: matrix multiplication in PySpark 
-    15.4 Correlation Network 
+
+      Introduction 
+      Co-occurrence Network 
+      Appendix: matrix multiplication in PySpark 
+      Correlation Network 
+    
 Section 20: ALS: Stock Portfolio Recommendations 
-    16.1 Recommender systems 
-    16.2 Alternating Least Squares 
-    16.3 Demo 
+
+      Recommender systems 
+      Alternating Least Squares 
+      Demo 
+    
 Section 21: Monte Carlo Simulation 
-    17.1 Simulating Casino Win 
-    17.2 Simulating a Random Walk 
+
+      Simulating Casino Win 
+      Simulating a Random Walk 
+    
 Section 22: Markov Chain Monte Carlo 
-    18.1 Metropolis algorithm 
-    18.2 A Toy Example of Metropolis
-    18.3 Demos 
+
+      Metropolis algorithm 
+      A Toy Example of Metropolis
+      Demos 
+    
 Section 23: Neural Network 
-    19.1 Feedforward Neural Network 
+
+      Feedforward Neural Network 
+    
 Section 24: Automation for Cloudera Distribution Hadoop 
-    20.1 Automation Pipeline
-    20.2 Data Clean and Manipulation Automation 
-    20.3 ML Pipeline Automation 
-    20.4 Save and Load PipelineModel 
-    20.5 Ingest Results Back into Hadoop 
+
+      Automation Pipeline
+      Data Clean and Manipulation Automation 
+      ML Pipeline Automation 
+      Save and Load PipelineModel 
+      Ingest Results Back into Hadoop 
+    
 Section 25: Wrap PySpark Package 
-    21.1 Package Wrapper
-    21.2 Pacakge Publishing on PyPI 
+
+      Package Wrapper
+      Pacakge Publishing on PyPI 
+    
 Section 26: PySpark Data Audit Library 
-    22.1 Install with pip 
-    22.2 Install from Repo 
-    22.3 Uninstall 
-    22.4 Test 
-    22.5 Auditing on Big Dataset 
+
+      Install with pip 
+      Install from Repo 
+      Uninstall 
+      Test 
+      Auditing on Big Dataset 
+    
 Section 27: Zeppelin to jupyter notebook 
-    23.1 How to Install 
-    23.2 Converting Demos 
-    24 My Cheat Sheet 
+
+      How to Install 
+      Converting Demos 
+
 Section 28: JDBC Connection 
-    25.1 JDBC Driver1
-    25.2 JDBC read
-    25.3 JDBC write
-    25.4 JDBC temp_view 
+
+      JDBC Driver
+      JDBC read
+      JDBC write
+      JDBC temp_view 
+    
 Section 29: Databricks Tips 
-    26.1 Display samples 
-    26.2 Auto files download 
-    26.3 Working with AWS S3
-    26.4 delta format 
-    26.5 mlflow 
+
+      Display samples 
+      Auto files download 
+      Working with AWS S3
+      delta format 
+      mlflow 
+    
 Section 27: PySpark API 
-    27.1 Stat API 
-    27.2 Regression API 
-    27.3 Classification API 
-    27.4 Clustering API .
-    27.5 Recommendation API 
-    27.6 Pipeline API 
-    27.7 Tuning API 
-    27.8 Evaluation API 
+
+      Stat API 
+      Regression API 
+      Classification API 
+      Clustering API .
+      Recommendation API 
+      Pipeline API 
+      Tuning API 
+      Evaluation API 

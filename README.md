@@ -10,6 +10,7 @@ Section 1: Big Data Analytics introduction
      Why Spark with Python
      Apache spark Architecture
      Big Data Analytics in industry
+    
 Section 2: Using Hadoop’s Core: HDFS and MapReduce
      HDFS: What it is, and how it works
      MapReduce: What it is, and how it works

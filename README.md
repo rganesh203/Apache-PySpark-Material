@@ -2,6 +2,7 @@
 ![image](https://github.com/rganesh203/Apache-Spark-PySpark-Material/assets/68594076/9f606c62-818e-4b71-bc07-88b025b808f4)
 
 Section 1: Big Data Analytics introduction
+
      Big Data overview
      Characteristics of Apache Spark
      Users and Use Cases of Apache Spark
@@ -12,20 +13,27 @@ Section 1: Big Data Analytics introduction
      Big Data Analytics in industry
     
 Section 2: Using Hadoop’s Core: HDFS and MapReduce
+
      HDFS: What it is, and how it works
      MapReduce: What it is, and how it works
      How MapReduce distributes processing
      HDFS commands
+    
 Section 3: Spark Databox Cloud Lab
+
      How to access Spark Databox cloud lab?
      Step by Step instruction to access cloud Big data Lab.
+    
 Section 4: Data analytics lifecycle
+
      Data Discovery
      Data Preparation
      Data Model Planning
      Data Model Building
      Data Insights
+    
 Section 5: python 3.0 (Crash Course)
+
      Environment Setup
      Decision Making
      Loops and Number
@@ -42,7 +50,8 @@ Section 5: python 3.0 (Crash Course)
      Multi-Threading
      Set
      Lamda Function
-Section 6: Why Spark with Python ? 7
+    
+Section 6: Why Spark with Python ? 
      Why Spark?
      Why Spark with Python (PySpark)? 
 Section 7: Configure Running Platform 11
@@ -51,14 +60,14 @@ Section 7: Configure Running Platform 11
       Configure Spark on Windows
       PySpark With Text Editor or IDE 
       PySparkling Water: Spark + H2O 
-    3.6 Set up Spark on Cloud 
-    3.7 PySpark on Colaboratory 
-    3.8 Demo Code in this Section 
+      Set up Spark on Cloud 
+      PySpark on Colaboratory 
+      Demo Code in this Section 
 Section 8: An Introduction to Apache Spark 
-    4.1 Core Concepts 
-    4.2 Spark Components
-    4.3 Architecture 
-    4.4 How Spark Works? 
+      Core Concepts 
+      Spark Components
+      Architecture 
+      How Spark Works? 
 Section 9: Programming with RDDs 
     5.1 Create RDD 
     5.2 Spark Operations
